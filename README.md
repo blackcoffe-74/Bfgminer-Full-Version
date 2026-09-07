@@ -235,3 +235,6 @@ This repository serves as the official landing page for BFGMiner. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of BFGMiner today!**
+
+---
+**Last updated:** 2026-09-07 18:29:24 UTC
