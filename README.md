@@ -237,4 +237,4 @@ This repository serves as the official landing page for BFGMiner. The software i
 **Get the most recent version of BFGMiner today!**
 
 ---
-**Last updated:** 2026-09-21 00:39:40 UTC
+**Last updated:** 2026-09-21 05:39:27 UTC
